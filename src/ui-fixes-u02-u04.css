@@ -1,0 +1,7 @@
+/* U-03: local Latin faces plus explicit CJK fallback provide stable typography offline. */
+.brand,.decision-note strong,.scenario-copy strong,.price,.reason-steps b,.compass-core strong,.static-core strong,.hero-static .static-summary-card>strong,.fan-card h1,.fan-card h2,.fan-card__summary>strong,.trade-role-picker span,.my-listings-panel li>strong,.scenario-all strong{font-family:var(--font-display)}
+
+/* U-04: the SVGs are decorative backgrounds; all readable copy now lives in the DOM. */
+.fan-card__content{pointer-events:none}
+.fan-card__route{pointer-events:auto;text-decoration:none}
+.fan-card__route:focus-visible{outline:3px solid var(--ring);outline-offset:4px}

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-labelledby="title">
+  <title id="title">校园标志占位图</title>
+  <circle cx="120" cy="120" r="112" fill="#f5ead1" stroke="#8d4c2e" stroke-width="10"/>
+  <circle cx="120" cy="120" r="82" fill="none" stroke="#8d4c2e" stroke-width="4" stroke-dasharray="8 7"/>
+  <path d="m120 58 58 30-58 30-58-30 58-30Zm-42 55h84v49H78Zm-12 56h108v14H66Z" fill="#8d4c2e"/>
+</svg>

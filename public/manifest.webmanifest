@@ -1,0 +1,8 @@
+{
+  "name": "校园生活决策助手",
+  "short_name": "校园决策",
+  "display": "standalone",
+  "start_url": "/",
+  "theme_color": "#18324B",
+  "background_color": "#F6F8F4"
+}

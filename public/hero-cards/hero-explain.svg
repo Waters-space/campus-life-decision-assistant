@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="校园生活决策助手背景装饰">
+  <defs><linearGradient id="paint" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0d4"/><stop offset=".55" stop-color="#e8d9aa"/><stop offset="1" stop-color="#7ca39b"/></linearGradient></defs>
+  <rect x="8" y="8" width="1008" height="1008" rx="64" fill="url(#paint)"/>
+  <g fill="none" stroke="#fff" stroke-width="28" opacity=".5"><path d="M210 300h604M210 470h430M210 640h530"/><circle cx="790" cy="640" r="82"/></g>
+  <rect x="8" y="8" width="1008" height="1008" rx="64" fill="none" stroke="#e9ba85" stroke-width="3"/>
+</svg>

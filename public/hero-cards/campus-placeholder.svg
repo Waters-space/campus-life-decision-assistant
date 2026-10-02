@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 960" role="img" aria-labelledby="title description">
+  <title id="title">校园图片占位图</title>
+  <desc id="description">用于提醒部署者替换为已获授权的校园照片</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6e8bf"/>
+      <stop offset="0.55" stop-color="#d6e8df"/>
+      <stop offset="1" stop-color="#85a9a4"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="960" fill="url(#sky)"/>
+  <circle cx="1240" cy="210" r="110" fill="#fff4c8" opacity=".8"/>
+  <path d="M0 690 260 500 520 690 820 420 1120 660 1360 500 1600 690V960H0Z" fill="#496e68" opacity=".48"/>
+  <path d="M0 770 360 610 680 760 980 590 1320 760 1600 640V960H0Z" fill="#234b49" opacity=".62"/>
+  <rect x="490" y="515" width="620" height="260" rx="20" fill="#f8f2df" opacity=".9"/>
+  <path d="M430 540 800 330l370 210Z" fill="#c7764d"/>
+  <g fill="#315d5b">
+    <rect x="560" y="590" width="90" height="110" rx="8"/>
+    <rect x="700" y="590" width="90" height="110" rx="8"/>
+    <rect x="840" y="590" width="90" height="110" rx="8"/>
+    <rect x="980" y="590" width="70" height="185" rx="8"/>
+  </g>
+  <text x="800" y="865" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif" font-size="42" font-weight="700">REPLACE WITH YOUR CAMPUS PHOTO</text>
+</svg>
